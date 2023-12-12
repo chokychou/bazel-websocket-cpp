@@ -9,5 +9,5 @@ bazel run //test:websocket_server_async
 
 To send a request:
 ```bash
-bazel run //test:websocket_server_async
+bazel run //test:websocket_client_async
 ```
